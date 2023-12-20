@@ -1,0 +1,113 @@
+[18:01:25] [INFO]   [main.cpp:190]            Aurora initialized.
+[18:01:25] [INFO]   [main.cpp:201]            Dll valid! Enjoy.
+[18:01:25] [INFO]   [pointers.cpp:422]        Found FPTR
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [ISS]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [RI]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [TC]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [GS]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [PF]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [WP]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [GLT]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [MGEA]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [SP]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [Get Net Player]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [VFX-WHL]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [NPM]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [N]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [GSH]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [ST]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [FV]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [NH]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [RPI]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [RBWD]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [RBA]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [STOPVT]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [SC]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [WBI64]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [WBI32]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [WBB]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [MWL]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [SG]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [CGSHM]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [WBQ]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [REH]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [WBA]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [GCP&SRGC]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [WBD]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [RBB]   
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [NR]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [PTH]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [MHT]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [RBS]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [MSB]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [GEAT]   
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [TJH]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [IMCD]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [CNOM]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [IDC]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [OMSP]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [TSE]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [CAD]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [RCS/GSTFT/GNOFP/GNO/GSTI]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [FPC2]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [TPO]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [GVGAS]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [RCC]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [ICF]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [BE]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [WPCDN]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [AWIV]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [Clear Tasks]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [RCB]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [SEA]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [NTQVMC]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [GNED]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [CT]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [Migrade]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [DC]  
+[18:01:25] [INFO]   [pattern_batch.cpp:27]    > [AURORA] > [HOOKED] > [VPMND]  
+[18:01:25] [INFO]   [main.cpp:208]            < [AURORA] < [HOOKED] < [Pointers initialized.]
+[18:01:25] [INFO]   [main.cpp:221]            < [AURORA] < [HOOKED] < [The game is already loaded.]
+[18:01:25] [INFO]   [main.cpp:225]            < [AURORA] < [HOOKED] < [Renderer initialized.]
+[18:01:25] [INFO]   [main.cpp:228]            < [AURORA] < [HOOKED] < [Fiber pool initialized.]
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'Get label text hook'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'Receive event'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'SetCursorPos'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'Script hook'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'ConvertThreadToFiber'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'Hook Fragment 2'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'Task Jump'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'Can Apply Data'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'HRP'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'RCC'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'RCS'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'HVPMN'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'HGNE'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'HTJ'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'HIMC'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'HDC'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'HSTOPVT'.
+[18:01:25] [INFO]   [detour_hook.cpp:18]      Created hook 'WPCD'.
+[18:01:25] [INFO]   [main.cpp:231]            < [AURORA] < [HOOKED] < [Hooking initialized.]
+[18:01:25] [INFO]   [main.cpp:234]            < [AURORA] < [HOOKED] < [Settings Loaded.]
+[18:01:25] [INFO]   [vehicle.cpp:158]         < [AURORA] < [HOOKED] > [Vehicles.ini loaded.]
+[18:01:25] [INFO]   [vehicle.cpp:170]         < [AURORA] < [HOOKED] > [Vehicle_class.ini loaded.]
+[18:01:25] [INFO]   [main.cpp:246]            < [AURORA] < [HOOKED] < [Scripts registered.]
+[18:01:25] [INFO]   [detour_hook.cpp:42]      Enabled hook 'Get label text hook'.
+[18:01:25] [INFO]   [detour_hook.cpp:42]      Enabled hook 'SetCursorPos'.
+[18:01:25] [INFO]   [detour_hook.cpp:42]      Enabled hook 'Hook Fragment 2'.
+[18:01:25] [INFO]   [detour_hook.cpp:42]      Enabled hook 'Task Jump'.
+[18:01:25] [INFO]   [detour_hook.cpp:42]      Enabled hook 'WPCD'.
+[18:01:25] [INFO]   [detour_hook.cpp:42]      Enabled hook 'Receive event'.
+[18:01:25] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HRP'.
+[18:01:26] [INFO]   [detour_hook.cpp:42]      Enabled hook 'RCC'.
+[18:01:26] [INFO]   [detour_hook.cpp:42]      Enabled hook 'RCS'.
+[18:01:26] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HGNE'.
+[18:01:26] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HTJ'.
+[18:01:26] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HIMC'.
+[18:01:26] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HVPMN'.
+[18:01:26] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HDC'.
+[18:01:26] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HSTOPVT'.
+[18:01:26] [INFO]   [detour_hook.cpp:42]      Enabled hook 'Script hook'.
+[18:01:26] [INFO]   [detour_hook.cpp:42]      Enabled hook 'ConvertThreadToFiber'.
+[18:01:26] [INFO]   [main.cpp:251]            < [AURORA] < [HOOKED] < [Hooking enabled.]
